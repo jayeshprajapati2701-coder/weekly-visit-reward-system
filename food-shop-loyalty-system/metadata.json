@@ -1,0 +1,7 @@
+{
+  "description": "A modern loyalty program website for shops with QR code scanning and weekly rewards tracking.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "name": "App"
+}
